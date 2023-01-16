@@ -19,6 +19,8 @@ body {
 
 .main-content {
     padding: 88px;
+    width: calc(100% - 370px); 
+    
 }
 
 .main-content-title {
